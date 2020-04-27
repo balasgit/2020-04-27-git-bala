@@ -1,3 +1,4 @@
+Git Lessons
 -int : create a git repository in current directory
   - no nested git repo
 -status : Tells you whats going on
