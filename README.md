@@ -1,3 +1,4 @@
 -int : create a git repository in current directory
 -status : Tells you whats going on
-
+-add : put files in the stagging area
+- commit: commit the stageing area with a message
