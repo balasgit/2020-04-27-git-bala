@@ -5,6 +5,9 @@
 - commit: commit the stageing area with a message
 -log : Look at all commit history you have been doing
 - diff : look at differences between current state and what git knows
+- Checkout: Moving out head
+     - checkout <HASH> <file> : restores files from the <hash>
+     - checkout <HASH> : move head to that location
 
 - remote: a place where a git repo is stored
 
