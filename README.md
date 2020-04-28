@@ -19,3 +19,9 @@
 - remote: a place where a git repo is stored
 
 - git push origin master: to push a master brnach on our local computer to remote name
+
+##Branches
+
+- `git branch <branch_name>` : Create a new branch
+- `git switch <branch_name>` : Move to a branch
+    - `git checkout <branch_name>
